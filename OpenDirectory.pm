@@ -1,7 +1,7 @@
 # OpenDirectory.pm
 # by Jim Smyser
 # Copyright (c) 1999 by Jim Smyser & USC/ISI
-# $Id: OpenDirectory.pm,v 2.02 2000/01/30 04:00:55 jims Exp $
+# $Id: OpenDirectory.pm,v 1.4 2000/02/04 19:51:44 mthurn Exp $
 
 
 package WWW::Search::OpenDirectory;
@@ -193,3 +193,6 @@ sub native_retrieve_some {
 }
 
 1;
+
+
+
